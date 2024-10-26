@@ -94,7 +94,8 @@ body {
   align-items: center;
   flex-direction: column;
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 64px;
+  padding-top: 64px;
   color: #fff !important;
 }
 .head-text h1 {
@@ -108,6 +109,8 @@ body {
   padding-top: 1rem;
   width: 80%;
   margin: 0 auto;
+  padding-bottom: 64px;
+  padding-top: 64px;
 }
 .sponsor-grid {
   display: grid;
@@ -115,6 +118,7 @@ body {
   gap: 20px; /* Optional: spacing between grid items */
   width: 80%;
   margin: 0 auto;
+  padding-bottom: 64px;
 }
 .grid-item {
   /* text-align: center; */
